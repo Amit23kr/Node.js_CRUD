@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Amit kumar sah",
+        "age": 23,
+        "company" : "Ocular technology",
+        "language" : "React.js"
+
+    },
+    {
+        "name": "sumit prakash",
+        "age": 33,
+        "company" : "Ocular technology",
+        "language" : "Mongodb"
+ 
+    },
+    {
+        "name": "Rajesh singh",
+        "age": 43,
+        "company" : "Ocular technology",
+        "language" : "Angular.js"
+
+    },
+    {
+        "name": "Rupesh kumar",
+        "age": 33,
+        "company" : "Ocular technology",
+        "language" : "Node.js"
+
+    }
+]
